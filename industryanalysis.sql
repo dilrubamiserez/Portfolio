@@ -1,1 +1,0 @@
-#What are the year-over-year growth rates for each industry per year?
